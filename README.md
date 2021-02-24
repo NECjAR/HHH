@@ -34,7 +34,7 @@ _For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com
 ## Release History
 
 * 2020.1.1
-    * ADD: Travis uses portals.
+    * Travis uses portals.
 
 ## Meta
 
