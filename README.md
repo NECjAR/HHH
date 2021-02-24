@@ -17,7 +17,7 @@
 # HEAD HELD HIGH
 > Head Held High is an original graphic novels created by the man behind the NECjAR.
 
-See www.necjar.com for details.
+See www.necjar.com/hhh for details.
 
 <p align="center">
   <a href="https://necjar.com/hhh">
