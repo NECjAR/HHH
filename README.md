@@ -27,7 +27,7 @@ See www.necjar.com/hhh for details.
 
 ## Contributing
 
-Project source code is not public. This is repository for Issues!
+This repository serves as a place for bug reports, feature requests, and general discussion.
 
 _For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/Head_Held_High)._
 
